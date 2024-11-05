@@ -1,0 +1,17 @@
+.actions {
+    display: flex;
+    justify-content: flex-end; /* Alinea a la izquierda */
+    margin: 10px; /* Espacio alrededor */
+}
+
+.icon-button {
+    background: none; /* Sin fondo */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cambia el cursor al pasar el ratón */
+    margin-right: 10px; /* Espacio entre botones */
+}
+
+.icon-button img {
+    width: 30px; /* Ajusta el tamaño del ícono */
+    height: 30px; /* Ajusta el tamaño del ícono */
+}
